@@ -1,0 +1,19 @@
+a {
+  color: red;
+}
+
+#exec-bio {
+  background-color: lightgrey;
+}
+
+.bio-box {
+  border: 1px solid black;
+}
+
+.bio-box a {
+  color: green;
+}
+
+.azure-box {
+  background-color: azure;
+}
