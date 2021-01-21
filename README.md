@@ -1,0 +1,3 @@
+# Sample website for Learn Enough tutorial
+
+Just going through the Learn Enough series...
