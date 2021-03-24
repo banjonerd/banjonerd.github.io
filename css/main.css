@@ -1,19 +1,19 @@
+/* GLOBAL STYLES */
 a {
   color: red;
 }
 
-.exec-bio {
-  background-color: lightgrey;
-}
-
+/* BIO STYLES */
 .bio-box {
   border: 1px solid black;
+  width: 50%;
 }
 
-.bio-box a {
+.bio-copy a {
   color: green;
 }
 
-.azure-box {
-  background-color: azure;
+/* SOCIAL STYLES */
+.social-link {
+  color: blue;
 }
